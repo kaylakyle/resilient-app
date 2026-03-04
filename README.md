@@ -103,7 +103,7 @@ Feel free to submit issues and enhancement requests!
 
 ## 🤖 What is Dala?
 
-**[Gebeya Dala](https://dala.gebeya.com)** is an intelligent web  
+**[Gebeya Dala](https://dala.gebeya.com)** is an intelligent
 
 🔗 **Try Dala:** [dala.gebeya.com](https://dala.gebeya.com)
 
