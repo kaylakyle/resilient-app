@@ -99,8 +99,6 @@ Feel free to submit issues and enhancement requests!
 
 **⚡ Powered by [Dala](https://dala.gebeya.com)** - The AI-powered web development platform that helps you build full-stack applications faster.
 
----
-
 ## 🤖 What is Dala?
 
 **[Gebeya Dala](https://dala.gebeya.com)**
