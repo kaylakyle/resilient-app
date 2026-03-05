@@ -113,4 +113,4 @@ Feel free to submit issues and enhancement requests!
 - **Collaborative** - Build and share projects with your team
 - **Deployment Ready** - One-click deployment to production
 
-Built with ❤️ by the Dala team to
+Built with ❤️ by the Dala team
