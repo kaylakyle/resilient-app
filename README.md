@@ -11,7 +11,7 @@ A modern React starter template built with Vite, TypeScript, Tailwind CSS, and s
 - 🧩 **shadcn/ui** - Beautifully designed components built with Radix UI
 - 📦 **Path Mapping** - Clean imports with `@/` prefix
 
-## 📦 Included shadcn/ui Components
+## Included shadcn/ui Components
 
 - Button
 - Card
