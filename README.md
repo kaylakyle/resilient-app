@@ -101,7 +101,7 @@ Feel free to submit issues and enhancement requests!
 
 ## 🤖 What is Dala?
 
-**[Gebeya Dala](https://dala.gebeya.com)**
+**[Gebeya Dala](https://dala.gebeya.com)
 
 🔗 **Try Dala:** [dala.gebeya.com](https://dala.gebeya.com)
 
