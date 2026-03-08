@@ -97,7 +97,7 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 
 Feel free to submit issues and enhancement requests!
 
-** Powered by [Dala](https://dala.gebeya.com)** - The 
+** Powered by [Dala](https://dala.gebeya.com)**
 
 ## 🤖 What is Dala?
 🔗 **Try Dala:** [dala.gebeya.com](https://dala.gebeya.com)
