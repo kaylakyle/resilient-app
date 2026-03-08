@@ -93,13 +93,13 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Radix UI](https://www.radix-ui.com/)
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to submit issues and enhancement requests!
 
 ** Powered by [Dala](https://dala.gebeya.com)**
 
-## 🤖 What is Dala?
+##  What is Dala?
 🔗 **Try Dala:** [dala.gebeya.com](https://dala.gebeya.com)
 
 - **AI-Powered Development** - Get intelligent code suggestions and automated component generation
