@@ -94,8 +94,6 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 - [Radix UI](https://www.radix-ui.com/)
 
 ##  Contributing
-
-
 ** Powered by [Dala](https://dala.gebeya.com)**
 
 ##  What is Dala?
