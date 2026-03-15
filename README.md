@@ -95,8 +95,6 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 
 ** Powered by [Dala](https://dala.gebeya.com)**
 
-
-
 - **AI-Powered Development** - Get intelligent code suggestions and automated component generation
 - **Instant Preview** - See your changes live in real-time sandbox environments
 - **Zero Setup** - No local environment configuration needed
