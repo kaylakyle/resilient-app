@@ -2,7 +2,7 @@
 
 A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
 
-## 🚀 Features
+##  Features
 
 - ⚡️ **Vite** - Fast build tool and development server
 - ⚛️ **React 18** - Latest React with hooks support
