@@ -83,7 +83,7 @@ import { cn } from "@/lib/utils";
 
 ## 🌗 Dark Mode
 
-The template includes dark mode
+The template includes dar
 
 ## 📚 Learn More
 
