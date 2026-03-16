@@ -83,7 +83,7 @@ import { cn } from "@/lib/utils";
 
 ## 🌗 Dark Mode
 
-The template includes dark mode support through Tailwind's `dark:` classes 
+The template includes dark mode support through Tailwind's `dark:` 
 
 ## 📚 Learn More
 
