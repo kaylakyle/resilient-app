@@ -83,7 +83,6 @@ import { cn } from "@/lib/utils";
 
 ## 🌗 Dark Mode
 
-The 
 
 ## 📚 Learn More
 
