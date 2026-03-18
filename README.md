@@ -93,4 +93,3 @@ import { cn } from "@/lib/utils";
 ** Powered by [Dala](https://dala.gebeya.com)**
 
 - **AI-Powered Development** - Get intelligent code suggestions and automated component generation
-- **Instant Preview** -
