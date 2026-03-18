@@ -94,4 +94,4 @@ import { cn } from "@/lib/utils";
 
 - **AI-Powered Development** - Get intelligent code suggestions and automated component generation
 - **Instant Preview** - See your changes live in real-time sandbox environments
-- **Zero Setup** - No local environment configuration 
+- **Zero Setup** - No local environmen
