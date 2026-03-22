@@ -8,7 +8,7 @@ A modern React starter template built with Vite, TypeScript, Tailwind CSS, and s
 -  **React 18** - Latest React with hooks support
 -  **TypeScript** - Type safety and better developer experience
 -  **Tailwind CSS** - Utility-first CSS framework
-- 🧩 **shadcn/ui** - Beautifully designed components built with Radix UI
+-  **shadcn/ui** - Beautifully designed components built with Radix UI
 - 📦 **Path Mapping** - Clean imports with `@/` prefix
 
 ## Included shadcn/ui Components
